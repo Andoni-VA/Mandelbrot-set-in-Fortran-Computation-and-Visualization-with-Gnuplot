@@ -3,4 +3,4 @@ Fortran implementation of the Mandelbrot set: point-by-point numerical computati
 
 ## Mandelbrot Set
 
-![Mandelbrot set](images/mandelbrot_set_graph_page-0001.jpg)
+![Mandelbrot set](mandelbrot_set_graph_page-0001.jpg)
